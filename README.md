@@ -1,1 +1,1 @@
-# advanced-react-starter
+# react-starter-repo
